@@ -1,6 +1,6 @@
 from setuptools import setup, find_namespace_packages
 
-setup(name='clean-folder-1.0',
+setup(name='clean_folder',
       version='1',
       description='Sort all files in folder to relative categories',
       author='Volodymyr Oliinyk',
